@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 this is main branch
-=======
+
 Get the user data...
 process the the data
 
 
 feature branch
->>>>>>> feature1
+
